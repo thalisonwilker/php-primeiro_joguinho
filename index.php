@@ -1,48 +1,46 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset = "utf-8">
+    <head>
+        <meta charset = "utf-8">
 	<title>Jogo do acerta número!</title>
 	<style type="text/css">
 	body{
-		background-color: green;
-		color: black;
+	    background-color: green;
+            color: black;
 	}
 	h2{
-		font-family: Arial;
+	    font-family: Arial;
 	}
 	h3{
-		font-family: Arial;
+	    font-family: Arial;
 	}
 	p{
-		text-align: center;
+	    text-align: center;
 	}
 	input{
-		font-family: Arial;
-		font-size: 20px;
-		background-color: green;
-		color: white;
+	    font-family: Arial;
+	    font-size: 20px;
+	    background-color: green;
+	    color: white;
 	}
 	a{
-		font-family: Arial;
-		font-size: 20px;
-		text-decoration: none;
-		text-align: center;
+	    font-family: Arial;
+	    font-size: 20px;
+	    text-decoration: none;
+	    text-align: center;
 		}
 	a:hover{
-		font-size: 30px;
-		color: black;
+	    font-size: 30px;
+	    color: black;
 		}
-
 	</style>
+	
 	<script type="text/javascript">
 	function alerta(){
-		alert("a cada erro ou acerto eu gero outro número!");
+	    alert("a cada erro ou acerto eu gero outro número!");
 	}
+        </script>
 
-	</script>
-	<script type="text/javascript">
-	</script>
 </head>
 <body>
 
